@@ -31,7 +31,7 @@ We put the data set in a compressed file `data4CopynetV3.zip`, You can extract d
 
 ## Model
 
-![Image text](./images/overview.pdf)
+![Image text](./images/overview.png)
 
 ## Citing
 
