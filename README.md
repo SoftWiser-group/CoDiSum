@@ -39,7 +39,7 @@ If you find CoDiSum useful in your research, we ask that you cite the following 
 
 ```
 @inproceedings{
-author = {Shengbin Xu, Yuan Yao, Feng Xu, Tianxiao Gu, Hanghang Tong, Jian Lu},
+author = {Xu, Shengbin and Yao, Yuan and Xu, Feng and Gu, Tianxiao and Tong, Hanghang and Lu, Jian},
 title = {Commit Message Generation for Source Code Changes},
 booktitle = {Proceedings of the 28th International Joint Conference on Artificial Intelligence},
 year = {2019},
