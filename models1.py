@@ -7,7 +7,6 @@ import numpy as np
 from attention import Masked, MaskedTimeAttentionWithCoverage, MaskedGlobalMaxPooling1D, MaskedGlobalAveragePooling1D
 from defined_layers import GetPiece, AttentionCopy, CombineGenCopy, MaskedSoftmax, ComputeAlpha, WeightedSum
 from defined_layers import MaskedConv2D, MaskedAveragePooling2D, ComputeAttention, MaskedCopyProb
-from models import combined_loss
 
 
 def CopyNetPlus(len_en, len_de, attr_num, embed_vocab_size, decode_vocab_size, m_embed_dim, w_embed_dim,
