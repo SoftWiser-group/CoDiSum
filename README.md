@@ -19,6 +19,7 @@ In this repository, we provide the implementation of our CoDiSum model with Pyth
 
 example usage:
 
+Create a dir `models` to save the model file and run
 ```
 python CopyNetPlusgen.py
 ```
